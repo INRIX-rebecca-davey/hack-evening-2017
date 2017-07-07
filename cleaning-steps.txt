@@ -1,0 +1,9 @@
+- changed fatal occurrences to serious (136 of these, out of 18886 total)
+- replaced road surface = 5 with flood (corresponding text value)
+- removed row with road surface = N/A
+- changed rows with Road Surface = flood to full text value
+- fixed rows with 'Frost/ Ice' to correct 'Frost / Ice'
+- replaced lighting condition = 5 with corresponding text value
+- removed two rows with lighting condition in place of weather, i.e. no weather condition
+- changed all rows with just Driver as casualty class to Driver / Rider
+- done
