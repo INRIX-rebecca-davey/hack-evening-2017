@@ -10,7 +10,20 @@ Words here
 
 ## The data
 
-Describe the dataset and where it is and what the different files mean
+In the 'data' directory you'll find the data we'll be looking at tonight. It describes all road traffic accidents in Leeds from 2009 to 2015 that involve at least a minor injury. As you'll see, there are many interesting features to work with, including road surface conditions, lighting conditions, number of vehicles involved etc. 
+
+We've provided the raw files of the separate years, and additionally the following files:
+
+* all.csv - all raw year files together
+* cleaned.csv - several data cleaning steps applied to all.csv, described in 'cleaning-steps.txt'
+* cleaned-with-latlng.csv - cleaned.csv but with latitude and longitude values instead of easting and northing - much easier to work with!
+
+Link to data on data.gov.uk site: https://data.gov.uk/dataset/road-traffic-accidents
+
+We chose this dataset for a few reasons
+* it's relevant to our own work! We love traffic data.
+* it's nearly local, just a short hop across the Penines away
+* it has so many features! Great for machine learning, and rich for visualisation and mapping
 
 ## Suggested challenges
 
