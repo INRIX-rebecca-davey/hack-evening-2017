@@ -84,3 +84,33 @@ Suggested tools: Tableau
 
 Example of similar work:
 
+## Helpful tools
+
+Dash - what it's for - link to docs/homepage
+
+Matplotlib - what it's for - link to docs/homepage
+
+Seaborn - what it's for - link to docs/homepage
+
+Altair - what it's for - link to docs/homepage
+
+Bokeh - what it's for - link to docs/homepage
+
+D3 - what it's for - link to docs/homepage
+
+Vega - what it's for - link to docs/homepage
+
+Leaflet - what it's for - link to docs/homepage
+
+Mapbox - what it's for - link to docs/homepage
+
+Folium - what it's for - link to docs/homepage
+
+Tensorflow - what it's for - link to docs/homepage
+
+Pandas - what it's for - link to docs/homepage
+
+Tableau - what it's for - link to docs/homepage
+
+Caret - what it's for - link to docs/homepage
+
