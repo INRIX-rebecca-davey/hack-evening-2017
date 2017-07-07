@@ -6,7 +6,13 @@ Words here
 
 ## Schedule
 
-Words here
+18.00 - 18.20: welcome presentation
+18.20 - 18.30: speed intros and forming teams
+18.30 - 19.15: **first half**
+19.15 - 19.30: grab some pizza!
+19.30 - 20.30: **second half**
+20.30 - 20.45: lightning presentations from teams
+20.45 - 21.00: judging and prizes
 
 ## The data
 
