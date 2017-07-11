@@ -74,7 +74,7 @@ Description:
 
 Suggested tools: Dash (Python), Tableau
 
-Example of similar work:
+Example of similar work: https://plot.ly/dash/gallery/new-york-oil-and-gas/
 
 ### Challenge 5: visualization - infographic
 
@@ -86,31 +86,33 @@ Example of similar work:
 
 ## Helpful tools
 
-Dash - what it's for - link to docs/homepage
+[Dash](https://github.com/plotly/dash) - a Python library for creating web-based interactive dashboards
 
-Matplotlib - what it's for - link to docs/homepage
+[Matplotlib](http://matplotlib.org/) - a Python library for 2D data plotting
 
-Seaborn - what it's for - link to docs/homepage
+[Seaborn](https://seaborn.pydata.org/) - a Python library for visualizing statistical data - based on maptlotlib
 
-Altair - what it's for - link to docs/homepage
+[Altair](https://altair-viz.github.io/) - a Python library for visualizing statistical data - pretty and easy to work with
 
-Bokeh - what it's for - link to docs/homepage
+[Bokeh](http://bokeh.pydata.org/en/latest/) - a Python library for creating interactive visualizations
 
-D3 - what it's for - link to docs/homepage
+[D3](https://d3js.org/) - a JavaScript library for creating interactive data visualizations, tied to the DOM
 
-Vega - what it's for - link to docs/homepage
+[Vega](https://vega.github.io/vega/) - JSON/JavaScript-esque visualization language for creating interactive visualizations
 
-Leaflet - what it's for - link to docs/homepage
+[Leaflet](http://leafletjs.com/) - a JavaScript library for customizable, interactive maps. Very thorough and easy to work with!
 
-Mapbox - what it's for - link to docs/homepage
+[Folium](https://github.com/python-visualization/folium) - Python version of Leaflet. Doesn't have some of the more complex features but still good and easy to work with.
 
-Folium - what it's for - link to docs/homepage
+[Mapbox](https://www.mapbox.com/mapbox-gl-js/api/) - a JavaScript library for rendering interactive maps
 
-Tensorflow - what it's for - link to docs/homepage
+[TensorFlow](https://www.tensorflow.org/) - powerful Python-based machine learning framework
 
-Pandas - what it's for - link to docs/homepage
+[Pandas](https://pandas.pydata.org/) - data handling & data analysis for Python
 
-Tableau - what it's for - link to docs/homepage
+[Caret](http://topepo.github.io/caret/index.html) - machine learning package for R
 
-Caret - what it's for - link to docs/homepage
+[Jupyter Notebook](https://github.com/jupyter/notebook) - a web-based Python development environment/notebook. Very handy!
+
+[Apache Zeppelin](https://zeppelin.apache.org/) - another web-based development environment/notebook. Can be used with many languages/kernels in the same notebook, including Spark
 
