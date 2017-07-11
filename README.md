@@ -86,7 +86,7 @@ Example of similar work:
 
 ## Helpful tools
 
-[Dash](https://github.com/plotly/dash) - a Python library for creating web-based interactive dashboards
+[Pandas](https://pandas.pydata.org/) - data handling & data analysis for Python
 
 [Matplotlib](http://matplotlib.org/) - a Python library for 2D data plotting
 
@@ -95,6 +95,8 @@ Example of similar work:
 [Altair](https://altair-viz.github.io/) - a Python library for visualizing statistical data - pretty and easy to work with
 
 [Bokeh](http://bokeh.pydata.org/en/latest/) - a Python library for creating interactive visualizations
+
+[Dash](https://github.com/plotly/dash) - a Python library for creating web-based interactive dashboards
 
 [D3](https://d3js.org/) - a JavaScript library for creating interactive data visualizations, tied to the DOM
 
@@ -106,9 +108,9 @@ Example of similar work:
 
 [Mapbox](https://www.mapbox.com/mapbox-gl-js/api/) - a JavaScript library for rendering interactive maps
 
-[TensorFlow](https://www.tensorflow.org/) - powerful Python-based machine learning framework
+[scikit-learn](http://scikit-learn.org/stable/) - a machine learning library for Python. Part of NumPy/SciPy/matplotlib ecosystem. Thorough and straightforward.
 
-[Pandas](https://pandas.pydata.org/) - data handling & data analysis for Python
+[TensorFlow](https://www.tensorflow.org/) - powerful Python-based machine learning framework
 
 [Caret](http://topepo.github.io/caret/index.html) - machine learning package for R
 
