@@ -29,7 +29,7 @@ We've provided the raw files of the separate years, and additionally the followi
 
 Link to data on data.gov.uk site: https://data.gov.uk/dataset/road-traffic-accidents
 
-We chose this dataset for a few reasons
+We chose this dataset for a few reasons:
 * it's relevant to our own work! We love traffic data.
 * it's nearly local, just a short hop across the Penines away
 * it has so many features! Great for machine learning, and rich for visualisation and mapping
@@ -40,19 +40,19 @@ Below we've described some suggested challenges (two for machine learning and th
 If you have an idea for something you'd rather work on, that's great! Run it by one of our team and 
 we can help you hash out a plan and get started.
 
-### Challenge 1: machine learning - prediction
+### Challenge 1: machine learning - binary prediction
 
-Description: use data features (existing or engineered) to develop a model that can predict casualty severity
+Description: use data features (existing or engineered) to develop a model that can predict casualty severity (slight vs serious)
 
 ### Challenge 2: machine learning - time series modelling
 
-Description: develop a time series model to predict the rates of accidents with time
+Description: develop a time series model to fit and forecast the rate of accidents with time
 
 Example of similar work: [A Time Series Model for Assessing the Trend and Forecasting the Road Traffic Accident Mortality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5079210/)
 
 ### Challenge 3: visualization - mapping
 
-Description: an interactive map, with filters, e.g. markers for accidents but only show those with at least 3 vehicles involved, or choose feature to enhance map (e.g. colour roads by severity)
+Description: develop an interactive map, with filters, e.g. markers for accidents but only show those with at least 3 vehicles involved, or choose feature to enhance map (e.g. colour roads by severity)
 
 Example of similar work: [Trafford Locality Assets](http://www.infotrafford.org.uk/assetmapping)
 
