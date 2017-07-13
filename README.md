@@ -62,7 +62,7 @@ Example of similar work: [Trafford Locality Assets](http://www.infotrafford.org.
 
 Description: create an interactive dashboard exploring different ways of representing aspects of the dataset
 
-Example of similar work: https://plot.ly/dash/gallery/new-york-oil-and-gas/
+Example of similar work: [Overview of NY oil and gas production](https://plot.ly/dash/gallery/new-york-oil-and-gas/)
 
 ### Challenge 5: visualization - infographic
 
