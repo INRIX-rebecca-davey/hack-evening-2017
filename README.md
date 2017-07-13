@@ -44,6 +44,8 @@ we can help you hash out a plan and get started.
 
 Description: use data features (existing or engineered) to develop a model that can predict casualty severity (slight vs serious)
 
+Example of similar work: [Overview of a ML approach to a binary classification problem](https://www.kaggle.com/c/titanic) and [for some ideas](https://www.quora.com/What-are-some-binary-classification-algorithms)
+
 ### Challenge 2: machine learning - time series modelling
 
 Description: develop a time series model to fit and forecast the rate of accidents with time
