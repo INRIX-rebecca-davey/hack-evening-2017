@@ -1,9 +1,5 @@
 # INRIX Hack Evening 2017
 
-## About
-
-Words here
-
 ## Schedule
 
 18.00 - 18.20: welcome presentation
@@ -48,19 +44,15 @@ we can help you hash out a plan and get started.
 
 Description: use data features (existing or engineered) to develop a model that can predict casualty severity
 
-Example of similar work:
-
 ### Challenge 2: machine learning - time series
 
 Description:
 
-Example of similar work:
+Example of similar work: [A Time Series Model for Assessing the Trend and Forecasting the Road Traffic Accident Mortality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5079210/)
 
 ### Challenge 3: visualization - mapping
 
 Description: an interactive map, with filters, e.g. markers for accidents but only show those with at least 3 vehicles involved, or choose feature to enhance map (e.g. colour roads by severity)
-
-Example of similar work:
 
 ### Challenge 4: visualization - dashboard
 
@@ -71,8 +63,6 @@ Example of similar work: https://plot.ly/dash/gallery/new-york-oil-and-gas/
 ### Challenge 5: visualization - infographic
 
 Description:  a static or responsive infographic exploring the dataset
-
-Example of similar work:
 
 ## Helpful tools
 
