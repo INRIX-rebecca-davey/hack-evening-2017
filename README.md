@@ -24,8 +24,8 @@ In the 'data' directory you'll find the data we'll be looking at tonight. It des
 We've provided the raw files of the separate years, and additionally the following files:
 
 * all.csv - all raw year files together
-* cleaned.csv - several data cleaning steps applied to all.csv, described in 'cleaning-steps.txt'
-* cleaned-with-latlng.csv - cleaned.csv but with latitude and longitude values instead of easting and northing - much easier to work with!
+* cleaned-with-easting-northing.csv - several data cleaning steps applied to all.csv, described in 'cleaning-steps.txt'
+* cleaned-with-latlng.csv - cleaned-with-easting-northing.csv but with latitude and longitude values instead of easting and northing - much easier to work with!
 
 Link to data on data.gov.uk site: https://data.gov.uk/dataset/road-traffic-accidents
 
