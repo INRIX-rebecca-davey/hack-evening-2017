@@ -44,9 +44,9 @@ we can help you hash out a plan and get started.
 
 Description: use data features (existing or engineered) to develop a model that can predict casualty severity
 
-### Challenge 2: machine learning - time series
+### Challenge 2: machine learning - time series modelling
 
-Description:
+Description: develop a time series model to predict the rates of accidents with time
 
 Example of similar work: [A Time Series Model for Assessing the Trend and Forecasting the Road Traffic Accident Mortality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5079210/)
 
@@ -54,15 +54,19 @@ Example of similar work: [A Time Series Model for Assessing the Trend and Foreca
 
 Description: an interactive map, with filters, e.g. markers for accidents but only show those with at least 3 vehicles involved, or choose feature to enhance map (e.g. colour roads by severity)
 
+Example of similar work: [Trafford Locality Assets](http://www.infotrafford.org.uk/assetmapping)
+
 ### Challenge 4: visualization - dashboard
 
-Description: 
+Description: create an interactive dashboard exploring different ways of representing aspects of the dataset
 
 Example of similar work: https://plot.ly/dash/gallery/new-york-oil-and-gas/
 
 ### Challenge 5: visualization - infographic
 
-Description:  a static or responsive infographic exploring the dataset
+Description: create a static infographic representing aspects of the dataset that interest you 
+
+Example of similar work: [Compilation of traffic accident infographics](http://graphs.net/infographics-on-accidents.html)
 
 ## Helpful tools
 
