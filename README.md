@@ -48,15 +48,11 @@ we can help you hash out a plan and get started.
 
 Description: use data features (existing or engineered) to develop a model that can predict casualty severity
 
-Suggested tools: scikit-learn (Python), TensorFlow, Caret (R)
-
 Example of similar work:
 
 ### Challenge 2: machine learning - time series
 
 Description:
-
-Suggested tools:
 
 Example of similar work:
 
@@ -64,23 +60,17 @@ Example of similar work:
 
 Description: an interactive map, with filters, e.g. markers for accidents but only show those with at least 3 vehicles involved, or choose feature to enhance map (e.g. colour roads by severity)
 
-Suggested tools: Folium (Python), Leaflet (JS), Mapbox (JS), QGIS
-
 Example of similar work:
 
 ### Challenge 4: visualization - dashboard
 
-Description:
-
-Suggested tools: Dash (Python), Tableau
+Description: 
 
 Example of similar work: https://plot.ly/dash/gallery/new-york-oil-and-gas/
 
 ### Challenge 5: visualization - infographic
 
 Description:  a static or responsive infographic exploring the dataset
-
-Suggested tools: Tableau
 
 Example of similar work:
 
